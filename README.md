@@ -125,3 +125,5 @@ aws s3 sync . s3://<your-bucket-name>
 아주대학교 소프트웨어학과
 
 ---
+<img width="534" height="769" alt="스크린샷 2026-05-24 14 01 29" src="https://github.com/user-attachments/assets/b5180621-171c-45ec-baa0-6747f88c9ae2" />
+
